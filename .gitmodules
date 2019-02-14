@@ -1,0 +1,6 @@
+[submodule "PB7RetroGame_MCU"]
+	path = PB7RetroGame_MCU
+	url = https://github.com/Maxvdh5/PB7RetroGame_MCU
+[submodule "PB7RetroGame_FPGA"]
+	path = PB7RetroGame_FPGA
+	url = https://github.com/Maxvdh5/PB7RetroGame_FPGA
